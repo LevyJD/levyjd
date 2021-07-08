@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josh Levy</h1>
-<h3 align="center">Husband. Father. Christian. Student. Systems Analyst. A/V Tech. #actuallyautistic</h3>
+<h3 align="center">Follower of Jesus. Student. Systems Analyst. A/V Tech. #actuallyautistic</h3>
 
 - 🌱 I’m currently studying **Computer Science at UoPeople**
-
-- 👨‍💻 All of my projects are available at [https://joshlevy.ca/portfolio/](https://joshlevy.ca/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
