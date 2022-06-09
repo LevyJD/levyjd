@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Josh Levy</h1>
 <h3 align="center">Follower of Jesus. Student. Systems Analyst. A/V Tech. #actuallyautistic</h3>
 
-- 🌱 I’m currently studying **Computer Science at UoPeople**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/joshlevy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/twitter.svg" alt="joshlevy" height="30" width="40" /></a>
