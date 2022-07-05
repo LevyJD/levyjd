@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Josh Levy</h1>
-<h3 align="center">Follower of Jesus. Student. Systems Analyst. A/V Tech. #actuallyautistic</h3>
+<h3 align="center">Follower of Jesus. Dungeon master. A/V guy. #actuallyautistic</h3>
 
 
 ## 🌐 Socials:
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/JumpRange)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshdavidlevy) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@josh.levy) 
 [![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://psnprofiles.com/JumpRange)
