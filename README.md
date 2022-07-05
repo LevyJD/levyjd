@@ -25,6 +25,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=levyjd&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<a href="https://psnprofiles.com/JumpRange"><img src="https://card.psnprofiles.com/1/JumpRange.png" border="0"></a>
