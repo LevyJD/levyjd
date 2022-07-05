@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 
 [![Goodreads](https://img.shields.io/static/v1?style=for-the-badge&message=Goodreads&color=372213&logo=Goodreads&logoColor=FFFFFF&label=)](https://goodreads.com/levyjd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshdavidlevy) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/levyjd) 
 [![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://psnprofiles.com/JumpRange)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JoshLevy)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/UCGkEwa_YMzXiBe4ZsiRdEig) 
